@@ -1,4 +1,4 @@
-#  Codes ACMMM2024 paper ''Improving the Training of the GANs with Limited Data via Dual Adaptive Noise Injection''
+#  Codes for ACMMM2024 paper ''Improving the Training of the GANs with Limited Data via Dual Adaptive Noise Injection''
 
 We have provided the codes of DANI with Projected GAN on low-shot datasets. The details are shown as follows.
 
