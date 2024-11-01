@@ -32,7 +32,7 @@ python train.py --outdir=training-runs --data="100-shot-obama.zip" --subset=100 
 
 # Citation:
 
-'''
+```
 @inproceedings{zhang2024improving,
   title={Improving the Training of the GANs with Limited Data via Dual Adaptive Noise Injection},
   author={Zhang, Zhaoyu and Hua, Yang and Sun, Guanxiong and Wang, Hui and McLoone, Se{\'a}n},
@@ -40,4 +40,4 @@ python train.py --outdir=training-runs --data="100-shot-obama.zip" --subset=100 
   pages={6725--6734},
   year={2024}
 }
-'''
+```
