@@ -31,3 +31,13 @@ python train.py --outdir=training-runs --data="100-shot-obama.zip" --subset=100 
 2. Feel free to contact me at zzhang55@qub.ac.uk if you have any questions.
 
 # Citation:
+
+'''
+@inproceedings{zhang2024improving,
+  title={Improving the Training of the GANs with Limited Data via Dual Adaptive Noise Injection},
+  author={Zhang, Zhaoyu and Hua, Yang and Sun, Guanxiong and Wang, Hui and McLoone, Se{\'a}n},
+  booktitle={Proceedings of the 32nd ACM International Conference on Multimedia},
+  pages={6725--6734},
+  year={2024}
+}
+'''
